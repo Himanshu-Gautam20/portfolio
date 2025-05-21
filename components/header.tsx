@@ -84,7 +84,7 @@ export function Header() {
               </button>
             ))}
             <Button asChild className="w-full">
-              <Link href="https://www.fiverr.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.fiverr.com/" target="_blank" rel="noopener noreferrer">
                 Hire Me on Fiverr
               </Link>
             </Button>

@@ -20,11 +20,11 @@ interface Project {
 const portfolioItems = [
   {
     id: 1,
-    title: "Brand Identity Design",
-    category: "graphic",
+    title: "To-Do List",
+    category: "web",
     image: "/placeholder.svg?height=600&width=800",
-    description: "Complete brand identity design including logo, color palette, typography, and brand guidelines.",
-    link: "#",
+    description: "To-Do List is a simple yet powerful tool used to keep track of tasks and manage time effectively. It allows individuals to list tasks they need to complete, prioritize them, and mark them as done once completed. To-do lists help improve focus, productivity, and organization—whether for daily chores, work projects, or long-term goals.",
+    link: "./img/to_do_list.jpg",
   },
   {
     id: 2,
